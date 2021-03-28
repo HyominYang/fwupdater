@@ -1,0 +1,3 @@
+[submodule "fork_py_ymodem"]
+	path = fork_py_ymodem
+	url = git@github.com:HyominYang/fork_py_ymodem.git
